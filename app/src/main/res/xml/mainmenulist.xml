@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--http://schemas.android.com/apk/res/com.sagereal.launcher-->
+<mainmenulist xmlns:launcher="http://schemas.android.com/apk/res-auto">
+
+    <app
+        launcher:packageName="com.android.mms"
+        launcher:className="com.android.mms.ui.BootActivity"/>
+    <app
+        launcher:packageName="com.android.dialer"
+        launcher:className="com.android.dialer.DialtactsActivity"/>
+    <app
+        launcher:packageName="com.android.contacts"
+        launcher:className="com.android.contacts.activities.PeopleActivity"/>
+    <app
+        launcher:packageName="com.android.browser"
+        launcher:className="com.android.browser.BrowserActivity"/>
+    <app
+        launcher:packageName="com.android.gallery3d"
+        launcher:className="com.android.camera.CameraLauncher"/>
+    <app
+        launcher:packageName="com.android.music"
+        launcher:className="com.android.music.MusicBrowserActivity"/>
+    <app
+        launcher:packageName="com.android.settings"
+        launcher:className="com.android.settings.Settings"/>
+    <app
+        launcher:packageName="com.mediatek.videoplayer"
+        launcher:className="com.mediatek.videoplayer.MovieListActivity"/>
+    <app
+        launcher:packageName="com.android.gallery3d"
+        launcher:className="com.android.gallery3d.app.GalleryActivity"/>
+    <app
+        launcher:packageName="com.mediatek.FMRadio"
+        launcher:className="com.mediatek.FMRadio.FMRadioActivity"/>
+    <app
+        launcher:packageName="com.android.soundrecorder"
+        launcher:className="com.android.soundrecorder.SoundRecorder"/>
+    <app
+        launcher:packageName="com.android.email"
+        launcher:className="com.android.email.activity.Welcome"/>
+    <app
+        launcher:packageName="com.android.calculator2"
+        launcher:className="com.android.calculator2.Calculator"/>
+
+</mainmenulist>
