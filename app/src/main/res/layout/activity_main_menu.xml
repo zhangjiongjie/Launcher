@@ -31,6 +31,8 @@
             <GridView
                 android:id="@+id/mainmenu_gridview"
                 android:layout_width="match_parent"
+                android:verticalSpacing="0dp"
+                android:horizontalSpacing="0dp"
                 android:layout_height="0dp"
                 android:layout_weight="6"
                 android:numColumns="3"
